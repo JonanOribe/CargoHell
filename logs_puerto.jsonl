@@ -3,3 +3,13 @@
 {"timestamp":"2026-01-07T11:54:21.227088+00:00","action":"VACIADO","container_id":1,"status":"Empty","balance":1600.0}
 {"timestamp":"2026-01-07T11:54:21.411188800+00:00","action":"VACIADO","container_id":3,"status":"Empty","balance":1800.0}
 {"timestamp":"2026-01-07T11:54:21.635733700+00:00","action":"VACIADO","container_id":2,"status":"Empty","balance":2000.0}
+{"timestamp":"2026-01-07T11:56:14.550284700+00:00","action":"VACIADO","container_id":4,"status":"Empty","balance":1200.0}
+{"timestamp":"2026-01-07T11:56:14.567606+00:00","action":"VACIADO","container_id":1,"status":"Empty","balance":1400.0}
+{"timestamp":"2026-01-07T11:56:14.784824600+00:00","action":"VACIADO","container_id":3,"status":"Empty","balance":1600.0}
+{"timestamp":"2026-01-07T11:56:14.951078+00:00","action":"VACIADO","container_id":0,"status":"Empty","balance":1800.0}
+{"timestamp":"2026-01-07T11:56:15.505821200+00:00","action":"DESPACHADO","container_id":0,"status":"Removed","balance":1750.0}
+{"timestamp":"2026-01-07T11:56:15.941017700+00:00","action":"VACIADO","container_id":2,"status":"Empty","balance":1950.0}
+{"timestamp":"2026-01-07T11:56:17.447371400+00:00","action":"DESPACHADO","container_id":4,"status":"Removed","balance":1900.0}
+{"timestamp":"2026-01-07T11:56:18.945354900+00:00","action":"DESPACHADO","container_id":3,"status":"Removed","balance":1850.0}
+{"timestamp":"2026-01-07T11:56:19.669623800+00:00","action":"DESPACHADO","container_id":2,"status":"Removed","balance":1800.0}
+{"timestamp":"2026-01-07T11:56:34.499156700+00:00","action":"DESPACHADO","container_id":1,"status":"Removed","balance":1750.0}
