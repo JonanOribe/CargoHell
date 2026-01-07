@@ -1,0 +1,11 @@
+[package]
+name = "CargoHell"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.14"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+chrono = "0.4"
+rand = "0.8"

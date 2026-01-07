@@ -1,0 +1,5 @@
+{"timestamp":"2026-01-07T11:54:20.060295800+00:00","action":"VACIADO","container_id":4,"status":"Empty","balance":1200.0}
+{"timestamp":"2026-01-07T11:54:21.179610500+00:00","action":"VACIADO","container_id":0,"status":"Empty","balance":1400.0}
+{"timestamp":"2026-01-07T11:54:21.227088+00:00","action":"VACIADO","container_id":1,"status":"Empty","balance":1600.0}
+{"timestamp":"2026-01-07T11:54:21.411188800+00:00","action":"VACIADO","container_id":3,"status":"Empty","balance":1800.0}
+{"timestamp":"2026-01-07T11:54:21.635733700+00:00","action":"VACIADO","container_id":2,"status":"Empty","balance":2000.0}
